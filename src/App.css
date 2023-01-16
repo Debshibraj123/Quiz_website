@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: "Open Sans";
+    src: url("../src/Fonts/Lobster/Lobster-Regular.ttf");
+    font-weight: bold;
+    font-display: swap;
+  }
+  * {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: "Open Sans";
+    font-weight: 400;
+  }

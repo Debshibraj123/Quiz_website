@@ -1,0 +1,137 @@
+*{
+    margin-top: 17px;
+}
+
+.quizHead{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    color: azure;
+}
+
+.buttons
+{
+   font-size: 25px;
+   padding: 5px;
+   margin-top: 52px;
+   margin-left: 30rem;
+   background-color: gray;
+   border: none;
+   border-radius: 10px;
+   cursor: pointer;
+   transition: all 1s ease;
+}
+
+.buttons:hover{
+    background-color: green;
+    color: white;
+}
+
+.textF{
+    background-color: grey;
+  
+}
+
+@media  (max-width:1200px) and (min-width:990px) {
+    .buttons
+{
+   font-size: 20px;
+   padding: 5px;
+   margin-top: 52px;
+   margin-left: 28rem;
+   background-color: gray;
+   border: none;
+   border-radius: 10px;
+   cursor: pointer;
+   transition: all 1s ease;
+}
+
+.buttons:hover{
+    background-color: green;
+    color: white;
+}
+
+}
+
+@media  (max-width:1200px) and (min-width:990px) {
+    .buttons
+{
+   font-size: 20px;
+   padding: 5px;
+   margin-top: 52px;
+   margin-left: 28rem;
+   background-color: gray;
+   border: none;
+   border-radius: 10px;
+   cursor: pointer;
+   transition: all 1s ease;
+}
+
+.buttons:hover{
+    background-color: green;
+    color: white;
+}
+
+}@media  (max-width:990px) and (min-width:768px) {
+    .buttons
+{
+   font-size: 20px;
+   padding: 5px;
+   margin-top: 52px;
+   margin-left: 20rem;
+   background-color: gray;
+   border: none;
+   border-radius: 10px;
+   cursor: pointer;
+   transition: all 1s ease;
+}
+
+.buttons:hover{
+    background-color: green;
+    color: white;
+}
+
+}
+
+@media  (max-width:768px) and (min-width:600px) {
+ .buttons
+{
+   font-size: 20px;
+   padding: 5px;
+   margin-top: 52px;
+   margin-left: 15rem;
+   background-color: gray;
+   border: none;
+   border-radius: 10px;
+   cursor: pointer;
+   transition: all 1s ease;
+}
+
+.buttons:hover{
+    background-color: green;
+    color: white;
+}
+
+}
+
+@media  (max-width:600px) and (min-width:500px) {
+    .buttons
+{
+   font-size: 20px;
+   padding: 5px;
+   margin-top: 52px;
+   margin-left: 11rem;
+   background-color: gray;
+   border: none;
+   border-radius: 10px;
+   cursor: pointer;
+   transition: all 1s ease;
+}
+
+.buttons:hover{
+    background-color: green;
+    color: white;
+}
+
+}
