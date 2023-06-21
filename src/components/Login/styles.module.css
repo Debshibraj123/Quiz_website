@@ -98,6 +98,7 @@
     font-size: 1em;
     background: rgb(64, 192, 87);
     transition: all 0.2s;
+	cursor: pointer;
     border-radius: 3px;
   }
   

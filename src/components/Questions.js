@@ -89,7 +89,7 @@ const Questions = () => {
       setQuestionIndex(questionIndex - 1);
       
     } else {
-      navigate("/");
+      navigate("/login");
     }
   };
 

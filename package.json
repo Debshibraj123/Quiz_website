@@ -1,5 +1,5 @@
 {
-  "name": "coffewebsite",
+  "name": "cls",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -62,5 +62,6 @@
   "main": "index.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {}
 }
